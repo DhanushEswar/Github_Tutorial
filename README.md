@@ -28,21 +28,23 @@
 
 
 # Using the Exisiting Project from Github
-1. Open the directory where you want to clone the project.
-   
-2. Clone the project using 
-   `git clone <repo-url>`
 
-3. Make the Changes.
+## Steps
+   1. Open the directory where you want to clone the project.
+      
+   2. Clone the project using 
+      `git clone <repo-url>`
 
-4. Now pull the changes before adding it using 
-   `git pull upstream <branch-name>`
+   3. Make the Changes.
 
-5. Adding the changes to the remote using
-   `git add .`
+   4. Now pull the changes before adding it using 
+      `git pull upstream <branch-name>`
 
-6. Commit the changes before the push using
-   `git commit -m "COMMENT"`
+   5. Adding the changes to the remote using
+      `git add .`
 
-7. Now push the change to the Gihub Repo using 
-   `git push origin <branch-name>`
+   6. Commit the changes before the push using
+      `git commit -m "COMMENT"`
+
+   7. Now push the change to the Gihub Repo using 
+      `git push origin <branch-name>`
